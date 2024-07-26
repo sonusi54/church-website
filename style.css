@@ -1,0 +1,48 @@
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    color: white; /* Text color */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-container{
+max-width: 600px;
+margin: 20px auto;
+padding: 20px;
+background-color: #f8f9fa;
+}
+
+.sat{
+    margin-bottom: 20px;
+}
+
+.phd{
+    width: 100%;
+    border-radius: 4px;
+    padding: 10px;
+    border: 1px solid #198754;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    background-color: #198754;
+    padding: 10px;
+    width: 100%;
+    border: none;
+}
